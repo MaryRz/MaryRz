@@ -1,3 +1,19 @@
+# Welcome to My GitHub Profile! 👋
+
+![ImageGit](https://github.com/user-attachments/assets/f0c1c9b9-c0df-4628-b9ba-b28a82aad46a)
+
+
+## 🚀 About Me
+I am a passionate developer who loves analysis and coding!
+
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryRz&show_icons=true&theme=dracula)
+
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryRZ&layout=compact)
+
+## 📫 How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maryam-ramezani-12636b280)
 ## Hi there 👋
 ![ImageGit](https://github.com/user-attachments/assets/f0c1c9b9-c0df-4628-b9ba-b28a82aad46a)
 
