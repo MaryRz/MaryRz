@@ -4,6 +4,7 @@
 **MaryRz/MaryRz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![WhatsApp Image 2025-04-23 at 13 55 51_9855da15](https://github.com/user-attachments/assets/6f413741-70af-403f-b1ce-c32d97771c44)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
