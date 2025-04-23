@@ -1,5 +1,5 @@
-![WhatsApp Image 2025-04-23 at 13 55 51_9855da15](https://github.com/user-attachments/assets/6f413741-70af-403f-b1ce-c32d97771c44)
 ## Hi there 👋
+![ImageGit](https://github.com/user-attachments/assets/f0c1c9b9-c0df-4628-b9ba-b28a82aad46a)
 
 <!--
 **MaryRz/MaryRz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
