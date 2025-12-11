@@ -1,6 +1,3 @@
-![ImageGit](https://github.com/user-attachments/assets/f0c1c9b9-c0df-4628-b9ba-b28a82aad46a)
-
-
 ## 🚀 About Me
 I am a passionate developer who loves analysis and coding!
 
@@ -18,6 +15,9 @@ I am a passionate developer who loves analysis and coding!
 ## 📫 ارتباط با من
 <p align="left">
   <a href="mailto:maryrz.example@gmail.com">
+
+    ![ImageGit](https://github.com/user-attachments/assets/f0c1c9b9-c0df-4628-b9ba-b28a82aad46a)
+
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://linkedin.com/in/yourprofile">
