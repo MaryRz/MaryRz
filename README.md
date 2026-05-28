@@ -1,24 +1,62 @@
-## 🚀 About Me
-I am a passionate developer who loves analysis and coding!
+# ML-NLP Portfolio
 
-## 🔧 مهارت‌های فنی
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Machine_Learning-0081CB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/LLMs-FFA000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+I am an aspiring Machine Learning Engineer specializing in:
 
+- Natural Language Processing (NLP)
+- Speech-to-Text (STT) systems
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning Systems (MLOps basics)
 
-## 📫 ارتباط با من
-<p align="left">
-  <a href="mailto:maryrz.example@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  </p>
+---
 
+## 🎯 Goal
+
+Building production-ready AI systems with focus on:
+- Deployment
+- APIs
+- Real-world applications
+- Scalable architecture
+
+---
+
+## 🧠 Tech Stack
+
+- Python
+- FastAPI
+- Docker
+- HuggingFace Transformers
+- Whisper (Speech-to-Text)
+- LangChain
+- Vector Databases (FAISS / ChromaDB)
+- Basic MLOps tools
+
+---
+
+## 🚀 Current Focus
+
+1. GitHub structuring
+2. Whisper STT API project
+3. RAG-based assistant system
+4. Deployment skills (Docker + APIs)
+
+---
+
+## 📁 Projects (In Progress)
+
+- Whisper STT API (Speech recognition system)
+- RAG Assistant System (LLM-based Q&A system)
+
+---
+
+## 📌 Roadmap
+
+- Phase 1: Git + FastAPI + Docker
+- Phase 2: Speech-to-Text systems
+- Phase 3: RAG systems
+- Phase 4: MLOps + Deployment
+
+---
+
+## 📫 Status
+
+Actively building ML engineering portfolio for real-world job applications.
