@@ -1,62 +1,88 @@
-# ML-NLP Portfolio
 
-I am an aspiring Machine Learning Engineer specializing in:
+# Hi, I'm Maryam 👋
 
-- Natural Language Processing (NLP)
-- Speech-to-Text (STT) systems
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning Systems (MLOps basics)
+## Machine Learning Engineer | NLP | Speech AI | RAG Systems
+
+I build production-oriented AI systems focusing on **Natural Language Processing, Speech-to-Text, and Retrieval-Augmented Generation (RAG)**.
 
 ---
 
-## 🎯 Goal
+## 🧠 About Me
 
-Building production-ready AI systems with focus on:
-- Deployment
-- APIs
-- Real-world applications
-- Scalable architecture
-
----
-
-## 🧠 Tech Stack
-
-- Python
-- FastAPI
-- Docker
-- HuggingFace Transformers
-- Whisper (Speech-to-Text)
-- LangChain
-- Vector Databases (FAISS / ChromaDB)
-- Basic MLOps tools
+- Machine Learning & NLP enthusiast with a focus on real-world AI systems
+- Experience in audio signal processing and language modeling
+- Currently building production-ready ML projects with deployment (FastAPI, Docker)
+- Preparing for ML Engineer roles in Europe (Netherlands-focused)
 
 ---
 
 ## 🚀 Current Focus
 
-1. GitHub structuring
-2. Whisper STT API project
-3. RAG-based assistant system
-4. Deployment skills (Docker + APIs)
+- Speech-to-Text systems (Whisper-based APIs)
+- Retrieval-Augmented Generation (RAG) applications
+- LLM-based AI assistants
+- MLOps fundamentals (deployment, CI/CD, Docker)
 
 ---
 
-## 📁 Projects (In Progress)
+## 🧰 Tech Stack
 
-- Whisper STT API (Speech recognition system)
-- RAG Assistant System (LLM-based Q&A system)
+**Languages & Core**
+- Python
+- SQL (basic)
+
+**Machine Learning**
+- NLP (Transformers, embeddings)
+- Whisper (Speech Recognition)
+- HuggingFace ecosystem
+- LangChain
+
+**Backend & Deployment**
+- FastAPI
+- Docker
+- REST APIs
+
+**Data & Tools**
+- Pandas
+- NumPy
+- Git & GitHub
+- Linux basics
 
 ---
 
-## 📌 Roadmap
+## 📁 Featured Projects (In Progress)
+
+### 🎙 Whisper STT API
+Speech-to-text system with API interface  
+→ FastAPI + Whisper + Docker (in progress)
+
+### 📚 RAG Assistant System
+LLM-powered Q&A system over custom documents  
+→ LangChain + Vector DB (planned)
+
+### 🔊 Voice AI System
+End-to-end voice assistant pipeline  
+→ STT + RAG + TTS (future project)
+
+---
+
+## 🗺️ Roadmap
 
 - Phase 1: Git + FastAPI + Docker
 - Phase 2: Speech-to-Text systems
 - Phase 3: RAG systems
-- Phase 4: MLOps + Deployment
+- Phase 4: MLOps & deployment
+- Phase 5: Advanced LLM applications
 
 ---
 
-## 📫 Status
+## 🎯 Career Goal
 
-Actively building ML engineering portfolio for real-world job applications.
+To become a **Machine Learning Engineer specializing in NLP and Speech AI**, building scalable AI systems in production environments.
+
+---
+
+## 📫 Contact
+
+- GitHub: [@MaryRz](https://github.com/MaryRz)
+- Open to collaboration and ML engineering opportunities
